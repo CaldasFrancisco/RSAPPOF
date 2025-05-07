@@ -1,0 +1,25 @@
+# Arquivos de log
+*.log
+
+# Pastas de build ou temporárias
+node_modules/
+dist/
+build/
+
+# Arquivos de ambiente
+.env
+*.env
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup
+*.bak
+*.tmp
+
+# Arquivos de IDE/editor
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
